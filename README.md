@@ -1,4 +1,4 @@
-# India General Loksabha Result-2024
+# India General Election Result Analysis 2024
 
 The India General Election Results – 2024 dashboard aims to provide a comprehensive 
 overview of the election outcomes with a focus on seat distribution among key alliances and 
