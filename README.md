@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-A data-driven dashboard that provides insights into the Indian General (Lok Sabha) Election results. This project visualizes key election metrics such as party-wise seat distribution, state-level performance, vote share, and trends across different years.
+# India General Loksabha Result-2024
+
+The India General Election Results – 2024 dashboard aims to provide a comprehensive 
+overview of the election outcomes with a focus on seat distribution among key alliances and 
+independent candidates. The dashboard will help political analysts, researchers, and the 
+general public gain insights into the election performance of major political groups.
