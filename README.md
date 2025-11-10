@@ -49,5 +49,8 @@ general public gain insights into the election performance of major political gr
 - Which candidate received the highest number of EVM votes in each constituency (Top 10)?
 
 ## Insights and Conclusion
-
+- The dashboard provides a clear visualization of the India General Election 2024 results across all states and parties.
+- It highlights party-wise performance, vote share, and state-level trends effectively.
+- The analysis shows how alliances and voter turnout influenced the final outcomes.
+- This project demonstrates how data visualization helps in understanding electoral patterns and insights.
   
