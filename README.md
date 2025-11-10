@@ -47,4 +47,7 @@ general public gain insights into the election performance of major political gr
 - What is the distribution of EVM votes versus postal votes for candidates in a specific constituency?
 - Which parties won the most seats in s State, and how many seats did each party win?
 - Which candidate received the highest number of EVM votes in each constituency (Top 10)?
+
+## Insights and Conclusion
+
   
