@@ -1,15 +1,15 @@
 ## India General Election Result Analysis 2024
 
-#Project Overview
+##Project Overview
 
 The India General Election Results – 2024 dashboard aims to provide a comprehensive 
 overview of the election outcomes with a focus on seat distribution among key alliances and 
 independent candidates. The dashboard will help political analysts, researchers, and the 
 general public gain insights into the election performance of major political groups.
 
-#Key Performance Indicators (KPIs)
-#DASHBOARD1:OVERVIEW ANALYSIS
-#KPI's-
+##Key Performance Indicators (KPIs)
+##DASHBOARD1:OVERVIEW ANALYSIS
+##KPI's-
 1. NDA Performance
    - Total seats won by the NDA alliance.
    - Percentage of total seats secured by NDA.
