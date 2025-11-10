@@ -9,19 +9,19 @@ general public gain insights into the election performance of major political gr
 
 ## Key Performance Indicators (KPIs)
 
-# 1. NDA Performance
+## 1. NDA Performance
 - Total seats won by the NDA alliance.
 - Percentage of total seats secured by NDA.
 - Bookmark: A grid matrix details table showing all seats won by the NDA 
      Alliance.
 
-2. I.N.D.I.A. Performance
+## 2. I.N.D.I.A. Performance
 - Total seats won by the I.N.D.I.A. alliance.
 - Percentage of total seats secured by I.N.D.I.A.
 - Bookmark: A grid matrix details table showing all seats won by the I.N.D.I.A. 
      Alliance.
 
-3. Independent & Other Parties Performance
+## 3. Independent & Other Parties Performance
 - Total seats won by independent candidates and smaller parties.
 - Percentage of total seats won by this group.
 - Bookmark: A grid matrix details table showing all seats won by Independent 
@@ -34,7 +34,7 @@ general public gain insights into the election performance of major political gr
   - Identify all parties within I.N.D.I.A. that won seats.
   - Display each party's seat count along with their party logos.
 
-##Q&S-
+## Q&S-
 - Total Seats
 - What are the total number of seats avialable for election in each states
 - Total seats won by NDA Alliance
