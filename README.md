@@ -9,7 +9,7 @@ general public gain insights into the election performance of major political gr
 
 ## Key Performance Indicators (KPIs)
 
-1. NDA Performance
+# 1. NDA Performance
 - Total seats won by the NDA alliance.
 - Percentage of total seats secured by NDA.
 - Bookmark: A grid matrix details table showing all seats won by the NDA 
